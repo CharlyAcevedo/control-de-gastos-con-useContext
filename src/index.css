@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /*** SWIPE LIST OVERRIDES **/
-/* .swipeable-list-item__leading-actions, 
+.swipeable-list-item__leading-actions, 
 .swipeable-list-item__trailing-actions {
   @apply text-white text-lg uppercase font-bold;
 }
@@ -15,4 +15,4 @@
 }
 .swipeable-list .swipe-action {
   @apply flex justify-center items-center
-} */
+}
